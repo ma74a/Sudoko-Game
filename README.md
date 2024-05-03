@@ -12,10 +12,11 @@ Prerequisites
 Installation
 
 To run the program, make sure you have Python and Pygame installed on your system. If you haven't installed Pygame, you can install it using pip:
-
-bash
-
+on windows
 pip install pygame
+bash
+on linux
+pip3 install pygame
 
 Running the Program
 
@@ -23,7 +24,7 @@ To run the Sudoku solver, simply execute the Python script sudoku_solver.py:
 
 bash
 
-python sudoku_solver.py
+python3 sudoku_solver.py
 
 Usage
 
