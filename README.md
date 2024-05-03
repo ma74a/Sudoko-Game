@@ -1,2 +1,2 @@
-# Sudoko-Game
+# Sudoku-Game
 create a simple sudoku game
